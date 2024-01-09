@@ -17,6 +17,7 @@ public class anotacao {
 
 
     // Boxing (Autoboxing)
+
     public static void main(String[] args) {
         // Boolean status = true;
         // Boolean statuson = Boolean.TRUE;
@@ -26,6 +27,9 @@ public class anotacao {
         int num1 = 10;
         short num2 = (short) num1;
 
+        //casting inplicito 
+        int idade = 10; 
+        long idadeL = idade;
         
     }
 
