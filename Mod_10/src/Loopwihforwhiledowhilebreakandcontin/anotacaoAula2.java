@@ -1,4 +1,4 @@
-package Mod_10.src;
+package Mod_10.src.Loopwihforwhiledowhilebreakandcontin;
 import java.util.Scanner;
 
 public class anotacaoAula2 {
