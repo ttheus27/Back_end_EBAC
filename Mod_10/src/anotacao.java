@@ -10,7 +10,7 @@ public class anotacao {
         int idade = s.nextInt();
         String idadeSt = getIdade(idade);
         System.out.println(idadeSt);
-        
+            
     }
 
     public static String getIdade(int idade) {
