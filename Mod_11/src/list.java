@@ -2,7 +2,6 @@ package Mod_11.src;
 
 import java.text.CollationElementIterator;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
@@ -24,7 +23,7 @@ public class list {
         lista.add("matheusssss");
         System.out.println(lista);
         System.out.println("");
-
+                                     
     }
 
     private static void exemploListaSimplesOrdemAscendente(){
